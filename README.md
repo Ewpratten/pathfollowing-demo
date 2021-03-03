@@ -1,5 +1,7 @@
 # Path Following Demo
 
+![Build](https://github.com/Ewpratten/pathfollowing-demo/workflows/Build/badge.svg)
+
 This application is an interactive demonstration of the [Pure Pursuit](http://www.enseignement.polytechnique.fr/profs/informatique/Eric.Goubault/MRIS/coulter_r_craig_1992_1.pdf) algorithm used by [@frc5024](https://github.com/frc5024) in [frc5024/lib5k](https://github.com/frc5024/lib5k). The goals of this application are:
 
  - Provide an easy way to demonstrate the algorithm
