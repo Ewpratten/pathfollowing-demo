@@ -174,7 +174,7 @@ fn main() {
         d.clear_background(Color::WHITE);
 
         // Force re-draw the path
-        redraw_followed_path(&mut d, &mut path_poses, 20.0 + POSE_INTERPOLATE_DISTANCE);
+        redraw_followed_path(&mut d, &mut path_poses, 40.0 + POSE_INTERPOLATE_DISTANCE);
         redraw_path(&mut d, &control_points, &path_poses);
 
         // Check for clicks on screen
