@@ -12,6 +12,8 @@ The algorithm itself was originally a quick proof-of-concept that became product
 
 ## Running
 
+This program uses [raylib](https://github.com/raysan5/raylib), and requires the same system packages to be installed as are [required to build raylib](https://github.com/raysan5/raylib/wiki).
+
 ```sh
 git clone https://github.com/ewpratten/pathfollowing-demo
 cd pathfollowing-demo
